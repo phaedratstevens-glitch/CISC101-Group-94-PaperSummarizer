@@ -2,7 +2,8 @@
 
 ## Change log
 
-- Initial version
+- Initial version  
+- 2025-11-27: Added strict evidence mode and standardized section warnings for missing/short sections.
 
 ---
 
