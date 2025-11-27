@@ -2,8 +2,8 @@
 
 ## Change log
 
-- Initial version
-
+- Initial version  
+- 2025-11-27: Added `summary_level` variable and short vs detailed section behavior.
 ---
 
 ## Objectives
